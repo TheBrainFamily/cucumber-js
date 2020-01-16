@@ -113,7 +113,7 @@
     "commander": "^2.9.0",
     "duration": "^0.2.0",
     "figures": "1.7.0",
-    "fibers": "^3.1.0",
+    "fibers": "^4.0.3",
     "gherkin": "4.0.0",
     "glob": "^7.0.0",
     "is-generator": "^1.0.2",
